@@ -7,10 +7,10 @@ This project provides a comprehensive HR data analysis to identify employee attr
 The goal of this project is to analyze HR data to uncover patterns affecting employee attrition and satisfaction, enabling stakeholders to make informed strategic and operational decisions.
 
 ## Files Included
-- <a href="https://github.com/thisissayra/HR-Analytics-Project-/blob/Data-Set/HR%20Data.xlsx"> HR Data.xlsx:</a> Original dataset used for analysis
-- <a href="https://github.com/thisissayra/HR-Analytics-Project-/tree/Dashboards"> Dashboards:</a> Interactive Dashboard that interpret analyzed data
-- <a href="https://github.com/thisissayra/HR-Analytics-Project-/blob/SQL/HR%20Project%20SQL%20Queries.sql"> SQL Queries.sql: <a/> SQL queries for data exploration and insights
-- <a href="https://github.com/thisissayra/HR-Analytics-Project-/tree/Dashboard-Screenshots"> Dashboard Screenshots: <a/> High-resolution screenshot of finalized dasboards
+- <a href="https://github.com/thisissayra/HR-Analytics-Project-/blob/Data-Set/HR%20Data.xlsx"> HR Data.xlsx:</a> Original dataset used for analysis.
+- <a href="https://github.com/thisissayra/HR-Analytics-Project-/tree/Dashboards"> Dashboards:</a> Interactive Dashboard that interpret analyzed data.
+- <a href="https://github.com/thisissayra/HR-Analytics-Project-/blob/SQL/HR%20Project%20SQL%20Queries.sql"> SQL Queries.sql: <a/> SQL queries for data exploration and insights.
+- <a href="https://github.com/thisissayra/HR-Analytics-Project-/tree/Dashboard-Screenshots"> Dashboard Screenshots: <a/> High-resolution screenshot of finalized dasboards.
 
 ## Tools & Techniques
 - *Tools:* Excel, Tableau, Power BI, SQL
@@ -51,7 +51,7 @@ The dashboard highlights:
 ## Recommended Actions for Stakeholders
 - Enhance retention programs for entry-level and sales roles.
 - Implement mentorship and training initiatives to boost satisfaction.
-- Reassess compensation struct*ures and promotion policies for fairness and motivation.
+- Reassess compensation structures and promotion policies for fairness and motivation.
 
 ## How to Run Locally
 1. Download <a href="https://github.com/thisissayra/HR-Analytics-Project-/blob/Data-Set/HR%20Data.xlsx"> HR Data.xlsx:</a> and <a href="https://github.com/thisissayra/HR-Analytics-Project-/blob/SQL/HR%20Project%20SQL%20Queries.sql"> HR Project SQL Queries.sql.<a/>
