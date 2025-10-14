@@ -51,7 +51,7 @@ The dashboard highlights:
 - *Gender Split:* 60% male, 40% female
 - *Education Influence:* Employees with a Bachelor’s degree show higher attrition
 - *Age & Marital Impact:* Younger and single employees are more likely to leave
-- *Departmental Trends: HR and Sales departments have the highest attrition
+- *Departmental Trends:* HR and Sales departments have the highest attrition
 
 ## Key Findings & Business Insights
 - High attrition among younger, single employees suggests a need for stronger career development and engagement programs.
