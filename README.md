@@ -12,7 +12,6 @@ The goal of this project is to analyze HR data to uncover patterns affecting emp
 - <a href="https://github.com/thisissayra/HR-Analytics-Project-/blob/SQL/HR%20Project%20SQL%20Queries.sql"> SQL Queries.sql: <a/> SQL queries for data exploration and insights
 - <a href="https://github.com/thisissayra/HR-Analytics-Project-/tree/Dashboard-Screenshots"> Dashboard Screenshots: <a/> High-resolution screenshot of finalized dasboards
 
-
 ## Tools & Techniques
 - *Tools:* Excel, Tableau, Power BI, SQL
 - *Techniques:* Data cleaning, dashboard design, KPI tracking, and trend analysis
