@@ -28,6 +28,16 @@ EmployeeID, Department, Education, Age, Gender, JobRole, Attrition, MaritalStatu
 - *Dashboard Development:* Designed dashboards across Excel, Tableau, and Power BI for comparative visualization.
 - *Insight Extraction:* Derived key takeaways through visual storytelling and performance metrics.
 
+## Dashboards
+Excel Dashboard 
+![Screenshot (495)] https://github.com/thisissayra/HR-Analytics-Project-/blob/Dashboard-Screenshots/HR%20Dashboard_Excel.png
+
+Power BI Dashboard 
+![Screenshot (495)] https://github.com/thisissayra/HR-Analytics-Project-/blob/Dashboard-Screenshots/HR%20Dashboard_%20PowerBI.png
+
+Tableau Dashboard 
+![Screenshot (495)] https://github.com/thisissayra/HR-Analytics-Project-/blob/Dashboard-Screenshots/HR%20Dashboard_Tableau.png
+
 ## KPIs Dashboard
 - *Total Employees:* 1740
 - *Active Employees:* 1233
