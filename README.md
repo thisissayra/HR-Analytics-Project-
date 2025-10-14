@@ -55,10 +55,10 @@ The dashboard highlights:
 - Reassess compensation struct*ures and promotion policies for fairness and motivation.
 
 ## How to Run Locally
-1. Download HR Data.xlsx and HR Project SQL Queries.sql.
+1. Download <a href="https://github.com/thisissayra/HR-Analytics-Project-/blob/Data-Set/HR%20Data.xlsx"> HR Data.xlsx:</a> and <a href="https://github.com/thisissayra/HR-Analytics-Project-/blob/SQL/HR%20Project%20SQL%20Queries.sql"> HR Project SQL Queries.sql.<a/>
 2. Open the dataset in Excel or import it into your SQL environment.
 3. Execute SQL queries to explore attrition patterns.
-4. Review dashboards (HR Dashboard_Excel.png or Power BI/Tableau equivalents) for visualization.
+4. Review dashboards (<a href="https://github.com/thisissayra/HR-Analytics-Project-/blob/Dashboards/HR%20Dashboard_VIEW_ONLY.xlsx">Excel<a/> or <a href="https://github.com/thisissayra/HR-Analytics-Project-/blob/Dashboards/HR%20Project.pbix"> Power BI<a/>/ <a href="https://github.com/thisissayra/HR-Analytics-Project-/blob/Dashboards/HR%20Dashboard.twb"> Tableau<a/> equivalents) for visualization.
 
 ## Final Conclusion
 This HR analytics project demonstrates how business intelligence tools and SQL can transform raw employee data into actionable insights. Through data-driven storytelling, HR departments can reduce attrition, improve satisfaction, and strengthen organizational culture.
