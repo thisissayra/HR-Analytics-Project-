@@ -39,7 +39,7 @@ EmployeeID, Department, Education, Age, Gender, JobRole, Attrition, MaritalStatu
 ![Screenshot (495)](https://github.com/thisissayra/HR-Analytics-Project-/blob/Dashboard-Screenshots/HR%20Dashboard_Tableau.png)
 
 ## KPIs Dashboard
-- *Total Employees:* 1740
+- *Total Employees:* 1470
 - *Active Employees:* 1233
 - *Attrition Count & Rate:* 237 & 16.12%
 - *Average Age:* 37
