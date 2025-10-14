@@ -29,14 +29,14 @@ EmployeeID, Department, Education, Age, Gender, JobRole, Attrition, MaritalStatu
 - *Insight Extraction:* Derived key takeaways through visual storytelling and performance metrics.
 
 ## Dashboards
-Excel Dashboard 
-![Screenshot (495)] https://github.com/thisissayra/HR-Analytics-Project-/blob/Dashboard-Screenshots/HR%20Dashboard_Excel.png
+*Excel Dashboard*
+![Screenshot (495)](https://github.com/thisissayra/HR-Analytics-Project-/blob/Dashboard-Screenshots/HR%20Dashboard_Excel.png)
 
-Power BI Dashboard 
-![Screenshot (495)] https://github.com/thisissayra/HR-Analytics-Project-/blob/Dashboard-Screenshots/HR%20Dashboard_%20PowerBI.png
+*Power BI Dashboard*
+![Screenshot (495)](https://github.com/thisissayra/HR-Analytics-Project-/blob/Dashboard-Screenshots/HR%20Dashboard_%20PowerBI.png)
 
-Tableau Dashboard 
-![Screenshot (495)] https://github.com/thisissayra/HR-Analytics-Project-/blob/Dashboard-Screenshots/HR%20Dashboard_Tableau.png
+*Tableau Dashboard*
+![Screenshot (495)](https://github.com/thisissayra/HR-Analytics-Project-/blob/Dashboard-Screenshots/HR%20Dashboard_Tableau.png)
 
 ## KPIs Dashboard
 - *Total Employees:* 1740
